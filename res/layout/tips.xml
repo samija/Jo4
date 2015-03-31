@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    >
+
+  	 
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Evangelism Tips"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+         >
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+	<TextView
+	    android:id="@+id/ch1content1"
+	    android:layout_width="303dp"
+	    android:layout_height="wrap_content"
+	    android:scrollbars="vertical"
+	    
+	    android:text="
+\n	1. Prayer 
+\nIf we think about it, most of us who know Jesus Christ as Lord and Saviour can probably look back and think of someone who prayed for us to be saved. It might be an elderly grandmother or another family member, even a friend or a work mate. 
+When I am praying for someone I ask the Holy Spirit to move in their lives and to draw them to Jesus Christ and make them aware of the need for a Saviour. I have found that prayer also helps you to know who to share your faith with. When I meet new people I always pray and ask God if this is someone I should share my faith with. If it is someone I need to talk to, I usually find I have the desire to pray for them and opportunities to talk open up in a natural way.
+\n
+\n	2. Prepare a Testimony
+\nA testimony can bring the Bible to life. I have found that people love hearing stories of how God has done great things for you. When I share about my testimony I touch on three main areas. These three things really help me to structure my story and how Jesus’ story impacted and changed my life.
+My life before Christ – I share things like how I felt, my illness, what sort of things I was in to, my upbringing and the sense of emptiness I had inside. These things set the scene. 
+My conversion – I then share how I came to Jesus. I talk about how I was feeling in the year before coming to Jesus, the people who helped me and the story of Jesus coming to die on the cross for me.
+How my life has changed – In this final section I share how knowing Jesus personally has changed my whole life and outlook. I talk about the love, acceptance, hope, joy and purpose I now feel inside.
+You can also share things some of the things that God has done for you. I actually have several short testimonies that I share with people depending on the situation. If it is someone who is suffering with a long term illness, I might share my story of living with Rheumatoid Arthritis and how God has worked in my life through it. If they are lonely or depressed I share the difference Christ has made in my life and how that I never feel alone any more. If they can't see anything good in the future or have lost hope, I share how Christ has given me hope, direction and a purpose for living.
+\n
+\n	3. Know relevant Bible verses 
+\nWork out a simple presentation by putting a few verses together and memorise them. You might like to write them in the back of your Bible so you can refer to them easily. If you can't remember them all, remember the first one and put references to the next one in your margin of your Bible.  
+Here are some verses that might be useful to start with - 
+\nJohn 3:16 -- For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.
+\nRomans 3:23 - FFor all have sinned and fall short of the glory of Godd.
+\nRomans 6:23 -- For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+\nRomans 5:8 -- But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.But God demonstrates his own love for us in this: While we were still sinners, Christ died for us.
+\nEphesians 2:8-9 -- For it is by grace you have been saved, through faith—and this not from yourselves, it is the gift of God— not by works, so that no one can boast.For it is by grace you have been saved, through faith—and this not from yourselves, it is the gift of God— not by works, so that no one can boast.
+\nJohn 14:6 -- Jesus answered, I am the way and the truth and the life. No one comes to the Father except through me.
+\nActs 4:12 -- Salvation is found in no one else, for there is no other name under heaven given to men by which we must be saved.
+\nRevelation 3:20 -- Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and eat with him, and he with me.
+\nJohn 1:12 -- Yet to all who received him, to those who believed in his name, he gave the right to become children of Godd.
+\nJohn 5:244 - I tell you the truth, whoever hears my word and believes him who sent me has eternal life and will not be condemned; he has crossed over from death to life.
+\nRomans 10:9-10 -- That if you confess with your mouth, Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved. For it is with your heart that you believe and are justified, and it is with your mouth that you confess and are saved
+\n
+\n4. Think about questions people may ask 
+\nMany people have big questions that act as sticking points, which prevent them from going further in accepting Christ. Some can be like a minor bump in the road, others can be like a roadblock! If you can answer these questions they might be able to move a step closer to receiving Christ. 
+Here are some that I have been asked -  
+\n	•	Why is there so much suffering in this world if there is a loving God? 
+\n	•	How could a loving God send people to hell if they don't believe in Him? 
+\n	•	Why do you believe Jesus Christ the only way to salvation? 
+\n	•	What happens to those who don’t accept Jesus? 
+\n	•	Why do you believe? 
+\n	•	What does it means to be born again? 
+\n	•	What happens when we die?
+\nIt is a great idea to have answers ready, especially Biblical answers!  
+\n
+\n5. Have some evangelistic tools handy 
+\nThere are a variety of evangelistic tools that you can use to reach people. Sometimes people seem to want to talk about things at the strangest times. Having something on hand can help in those situations. Here are a few examples -
+\nTracts – You can keep one handy in your purse or wallet just in case an opportunity arises. They are very handy if you don’t have much time or perhaps are a bit nervous about sharing your faith. You can even put a library pocket in the back of all your books. Instead of a library card, put a tract in it! 
+\nMP3s and CDs – A simple gospel message recorded may be all it takes to reach someone. Perhaps you could record your testimony or what you believe and give it to people who ask questions. 
+\nBooks – Look out for books on different issues especially ones where you friends or family may be interested in or if they are going through hard times. 
+\nWebsites – Look out for websites that may help you to reach your friends. Many websites have a “refer to a friend” page that sends an email message on your behalf bringing the site to their attention. You can also share things on Facebook for a wider audience.
+\nVideo tapes and DVDs – The “Jesus” video is a great way to reach people. In just over an hour you see the whole life of Christ and at the end if gives the opportunity to receive Christ as Lord and Saviour. You could buy one for yourself and one to give away! 
+\n
+\n
+\n6. Lead them in the Prayer of Salvation
+
+\n “O Lord God, I come to You in the Name of Jesus Christ. I believe in my heart that Jesus Christ came down, was torttured and died for me and that God raised Him up on the third day. 
+\nYour Word says, “...whosoever shall call on the name of the Lord shall be saved” (Acts 2:21). I ask Jesus to come into my heart to be the Lord of my life. I receive eternal life into my spirit. I am now born again and a child of God! I now have Christ dwelling in me, and greater is He that is in me than he that is in the world! (1 John 4:4). In Jesus Name. Amen!”
+\n
+\n“ጌታ እግዚአብሔር ሆይ በኢየሱስ ክርስቶስ ስም ወደ አንተ እመጣለሁ፣ ኢየሱስ ክርስቶስ ስለ እኔ እንደወረደ፣ እንደተሰቃየ እና እንደሞተ፣ በሶስተኛውም ቀን እግዚአብሔርም ከሙታን እንዳስነሣው በልቤ አምናለሁ። ኢየሱስ የህይወቴ ጌታ እንደ ሆነ በአፌ እመሰክራለሁ።
+\nቃልህ “የጌታን ስም የሚጠራም ሁሉ ይድናል።” እንደሚል ጌታ ኢየሱስ ወደ ህይወቴ እንዲገባ እጋብዛለሁ። የዘላለምን ህይወት ወደ መንፈሴ እቀበላለሁ። አሁን ዳግም ተወልጄ የእግዚአብሔር ልጅ ነኝ። በኢየሱስ ስም አሜን።”
+
+
+Additional Tips
+\n	
+\n	Recommend a church in the area.
+\n  If the person you are trying to convert does not wish to discuss or listen, then talk to someone more receptive.
+\n  Do not deliver a false-hope Gospel. Deliver the true Gospel, the Gospel of the 'Good News.' Anyone who says that when you become a Christian your life will be always wonderful and perfect has apparently never read the New Testament.
+\n  Remember the new convert will not be spiritually mature right away. Give the person time to grow.
+\n  Do not preach Hell, Fire and Brimstone immediately nor over-simplified version of the prosperity message, just preach the basics of the good news of the Gospel first. The basic story of Jesus is a good place to start.
+\n  Evangelize for the right reasons. If they are social or material, you are no better than a salesman. The Lord is always reaching out to the unbelievers, but you can still get in his way if you are a hypocrite.
+\n  Proclaim the Truth of the Gospel without respect for persons or favoritism. Do not use opinions and non-biblical doctrines and traditions when trying to explain the Gospel of Christ to unbelievers or members of another religion/denomination.
+
+
+" />
+	
+    </LinearLayout>
+     
+    </ScrollView>
+
+    
+</LinearLayout>

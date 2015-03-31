@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  	 
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="How to Prepare a Shareable Testimony"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+         >
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+	<TextView
+	    android:id="@+id/ch1content1"
+	    android:layout_width="303dp"
+	    android:layout_height="wrap_content"
+	    android:scrollbars="vertical"
+	    android:text="\nHow to have a spiritual conversation  
+\n		A testimony can bring the Bible to life. People love hearing stories of how God has done great things for you. You can also share things some of the things that God has done for you. 
+\nYou can learn to tell your story better if you do a little bit of preparation. Peter wrote that we should “always be prepared to give an answer to anyone who asks you to give the reason for the hope that you have” (1 Peter 3:15). One “reason” for your hope is Jesus and what he has done in your life. And Peter says that you need to “prepare” for possible opportunities to speak about him.
+\n	Below are some pointers for thinking through and writing your testimony. After you've read through them, set aside a  couple of minutes to answer the reflective questions and do the actual writing.
+\n
+\nStep 1: Know Your Before, During, and After
+\nPaul seemed to regularly share his testimony. In the book of Acts alone, he shares it three times. He tells it a little differently each time, but also makes sure to include the same three elements:
+\n•	Before: Paul gives an outline of the situation before he encountered Jesus.
+\n•	During: Paul shares a narrative of the encounter itself.
+\n•	After: Paul describes how life has been different since meeting Jesus.
+\nIt’s a pretty simple structure you can easily imitate. Below are some reflection questions to help you think through and compile the raw material of your spiritual journey to date. The questions are designed to trigger your thought process, not to restrict you; feel free to add anything else you think is important.
+\n
+\nWhat Was Your Life Like Before You Encountered Jesus?
+\n1.	Think about each phase of your life. What was your faith like during childhood, during your adolescent years, and now as an adult? Jot down some key points for each of these three phases.
+\n2.	Would you say you had any encounters with God or answered prayers before your conversion? Describe them. How did these influence your understanding of God?
+\n3.	Make a list of the longings and desires that shaped your journey to Christ. What obvious needs did Jesus address? Was it a sense of emptiness, a desire for forgiveness and acceptance, the longing to know God, the need to find significance, or something else? In what ways were you restless before your conversion? Try your best to describe this restlessness in terms others might recognize similarly in their lives.
+\n4.	Who were the key people or groups who influenced you to follow Jesus? How did they help you move toward Jesus? Can you remember anything specific they said or did to overcome misconceptions, help you see your need for Jesus, or unsettle your thinking? What were the pivotal moments and conversations?
+\\n
+\nHow Did You Meet Jesus?
+\n1.	What were the circumstances of your life at the time when your faith became real? Try your best to describe this in terms others might recognize similarly in their lives.
+\n2.	Can you identify a specific moment or period when you welcomed Jesus in? Where did that happen? Describe what you felt and experienced. If it happened over a longer period of time, maybe pick one or two key turning points and focus on them. If your conversion occurred early in your childhood, describe a time when you think your faith became your own, made sense, or came alive.
+\n3.	If you were responding to a sermon or a Bible study, what was it about? What were the circumstances of your life that helped that message make sense?
+\n4.	How did your encounter with Jesus address the longings, desires, and/or restlessness you experienced prior to conversion? How would you describe the central issue or question of your journey? How did God answer this?
+\n5.	What was the role of Christian community in your surrendering to Jesus? How did the people you mentioned above, or perhaps a church, Bible study, or Christian friends play a part? How did they influence you? How did they help you understand your need for God?
+\n
+\nWhat Difference Has Following Jesus Made?
+\n1.	If you had to tell someone why you are a Christian, what would you say?
+\n2.	How does knowing Jesus now compare to your previous (childhood, adolescent) faith?
+\n3.	How did/does knowing Jesus address the longings, desires, and restlessness that you identified previously in your life? Is it just beginning to deal with these matters, or have they been completely transformed?
+\n4.	How have you been changed by God? These could be subtle or obvious changes.
+\n
+\nStep 2: Write Concisely and Conversationally
+\nOnce you have some basic notes, the next step is to shape it into a communicable story.
+\nKeep It Short
+\nThere are probably a lot of elements to your conversion, but brevity is one of the keys to telling your story well. There’s no need to include everything. If people have questions or want more details, they can always ask you.
+\nConsider Your Audience
+\nConversion is a process, which means each person you share your testimony with will be at different stages of their own spiritual journey. So the best preparation for sharing your story is to make sure you know it well and are able to relate it to where they are with God. Here's how to do that:
+\n1.	Pick a friend who isn’t following Jesus. Any friend will do; just choose one.
+\n2.	Imagine a place and time where you might be having a conversation with them. Picture that place in your mind.
+\n3.	Take each of the three sections of your story – before, during, and after – and write each section in a form that would be appropriate for you to share with your chosen friend in the specific situation you visualized. Make sure you include the key points of your story that you think will connect with your friend. Don't hesitate to pray and ask God about what will connect with them.
+\n4.	Reread your story and consider whether your language and words will be understandable to your friend. Where necessary, change your mode of expression to remove Christian jargon, such as 'saved,' 'faith,' etc.).
+\nPractice Telling Your Story
+\nNow it’s time to share your story with someone else. If you are doing this reflection with a friend or group, split into pairs and take it in turns to sharing your stories with each other.
+\nAfter a little practice on your own or with Christian friends, why not meet up with a friend who doesn’t yet know Jesus? When you meet, let them know that you have recently been processing your experience with God and ask them if they’d be interested in hearing your story. If they agree, share your story and then ask, “What do you think? Does any of this connect with you at all?”
+\nIt’s not exactly rocket science! When my friend asked me if I had always been a Christian, I knew my own story well enough to pick out the most relevant parts and relate them to his life. I had also done some work on writing it out, so I was already prepared to express myself succinctly and not drone on interminably. Because I kept it short and interesting, my friend didn’t feel preached at and therefore had a lot more questions and we talked about knowing Jesus for about 20 minutes.
+\nYou can do this too! Grab a pen and paper (or type in the Word worksheet), and spend some time preparing to better tell your own story.
+
+
+" />
+	
+    </LinearLayout>
+     
+    </ScrollView>
+
+    
+</LinearLayout>

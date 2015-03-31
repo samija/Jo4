@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+  	 
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="About Us"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+         >
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+	<TextView
+	    android:id="@+id/ch1content1"
+	    android:layout_width="303dp"
+	    android:layout_height="wrap_content"
+	    android:scrollbars="vertical"
+	    android:text="
+	    \n		This application is designed by INDIGTOUS Hawassa participants in 2014. It is mobile app which is designed to show opportunities to share the good news. 
+	    \n		It is based on the Gospel John chapter four, where Jesus has begun a conversation by asking the Samaritan women to give Him water to drink, even if He is the living water. And it ends up with thousands of people believing in him. Since currently there are many Christians that have motivation to share the gospel of Christ to others, but they do not now how to witness. So, this app gives different options in different scenarios, short conversation starter sentences and phrases that will aid to begin evangelism and the capability to share to different social Medias.
+
+" />
+	
+    </LinearLayout>
+     
+    </ScrollView>
+
+    
+</LinearLayout>

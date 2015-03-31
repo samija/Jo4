@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/back"
+    >
+
+  	 
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Parables"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+   
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+         >
+<LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+	<TextView
+	    android:id="@+id/ch1content1"
+	    android:layout_width="303dp"
+	    android:layout_height="wrap_content"
+	    android:scrollbars="vertical"
+	    
+	    android:text="
+\n1.	Let assume you will have a wedding ceremony and you are preparing for the ceremony. And if the bridegroom (bride) comes to you and if at that that you have not prepared nothing. Do you think that you will be married on that wedding ceremony?
+\n1 Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom.
+\n2 And five of them were wise, and five were foolish.
+\n3 They that were foolish took their lamps, and took no oil with them:
+\n4 But the wise took oil in their vessels with their lamps.
+\n5 While the bridegroom tarried, they all slumbered and slept.
+\n6 And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him.
+\n7 Then all those virgins arose, and trimmed their lamps.
+\n8 And the foolish said unto the wise, Give us of your oil; for our lamps are gone out.
+\n9 But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves.
+\n10 And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut.
+\n11 Afterward came also the other virgins, saying, Lord, Lord, open to us.
+\n12 But he answered and said, Verily I say unto you, I know you not.
+\n13 Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh.”
+                                                          \nMath 25 v 1-13)
+\n2.	Once up a time one company administrator has given tasks to under his project to them. The project team has divided the tasks for each other. The project has to be finished per the schedule. The administrator has asked them to present their project to him. But they haven’t finished (started) the project. What is the fate of the project team members? 
+\n“
+\n14\n For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods.
+\n15 And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey.
+\n16 Then he that had received the five talents went and traded with the same, and made them other five talents.
+\n17 And likewise he that had received two, he also gained other two.
+\n18 But he that had received one went and digged in the earth, and hid his lord's money.
+\n19 After a long time the lord of those servants cometh, and reckoneth with them.
+\n20 And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more.
+\n21 His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+\n22 He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them.
+\n23 His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+\n24 Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:
+\n25 And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine.
+\n26 His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:
+\n27 Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury.
+\n28 Take therefore the talent from him, and give it unto him which hath ten talents.
+\n29 For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath.
+\n30 And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth.
+\n31 When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:”
+\n
+
+" />
+	
+    </LinearLayout>
+     
+    </ScrollView>
+
+    
+</LinearLayout>
